@@ -18,7 +18,7 @@ I've been using Visual Studio Code since [before](https://github.com/DonJayamann
 * [Smooth Type](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 * [VS Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
-* [vsvode-python-docstring](https://marketplace.visualstudio.com/items?itemName=azaugg.vscode-python-docstring)
+* [vscode-python-docstring](https://marketplace.visualstudio.com/items?itemName=azaugg.vscode-python-docstring)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 # My configuration
